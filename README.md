@@ -6,6 +6,20 @@
 
 ---
 
+## **個人專題**
+### TIBCS2024 論文壁報主題：Medical language model application in initial breast cancer recurrence recognition using random forest algorithm
+![期末專題海報](images/論文壁報.jpg)
+
+---
+
+## **競賽經歷**
+### DIGI*XTCA 全球數位新星大賞競賽
+- 由財團法人國家衛生研究院指導，參加數位發展部數位產業署112年度跨域數位人才加速躍升計畫辦理之競賽
+- 主題：基因風險管理-遠離洗腎人生 Finding out Genetic Risk, Protecting your Kidneys
+![期末專題海報](images/競賽.jpg)
+
+---
+
 ## **比較特別的修課經歷**
 ### 跨領域學習經驗
 - 我是一個很喜歡跨領域的人，在大學期間修了不少學分學程，其中最讓我印象深刻的是**臨床試驗微學程**中的**臨床新藥之研發特論**。  
